@@ -1,1 +1,1 @@
-# hello_world I have a dog name Manny.
+# hello_world I have a dog named Manny.
